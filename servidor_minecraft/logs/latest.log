@@ -1,0 +1,18 @@
+[00:14:08] [main/INFO]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 38.0.17, --fml.mcVersion, 1.18, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20211130.085255, nogui]
+[00:14:08] [main/INFO]: ModLauncher 9.0.7+91+master.8569cdf starting: java version 17.0.14 by Ubuntu
+[00:14:08] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/server-1-prueba/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2319! Service=ModLauncher Env=SERVER
+[00:14:08] [main/WARN]: Configuration file /workspaces/server-1-prueba/servidor_minecraft/config/fml.toml is not correct. Correcting
+[00:14:08] [main/WARN]: Incorrect key [defaultConfigPath] was corrected from null to defaultconfigs
+[00:14:08] [main/INFO]: Found mod file fmlcore-1.18-38.0.17.jar of type LIBRARY with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@7e22550a
+[00:14:08] [main/INFO]: Found mod file javafmllanguage-1.18-38.0.17.jar of type LANGPROVIDER with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@7e22550a
+[00:14:08] [main/INFO]: Found mod file mclanguage-1.18-38.0.17.jar of type LANGPROVIDER with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@7e22550a
+[00:14:08] [main/INFO]: Found mod file server-1.18-20211130.085255-srg.jar of type MOD with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@7e22550a
+[00:14:08] [main/INFO]: Found mod file forge-1.18-38.0.17-universal.jar of type MOD with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@7e22550a
+[00:14:10] [main/INFO]: Launching target 'forgeserver' with arguments [nogui]
+[00:14:16] [modloading-worker-0/INFO]: Forge mod loading, version 38.0.17, for MC 1.18 with MCP 20211130.085255
+[00:14:16] [modloading-worker-0/INFO]: MinecraftForge v38.0.17 Initialized
+[00:14:17] [main/WARN]: Configuration file /workspaces/server-1-prueba/servidor_minecraft/config/forge-common.toml is not correct. Correcting
+[00:14:17] [main/WARN]: Incorrect key general was corrected from null to its default, SimpleCommentedConfig:{}. 
+[00:14:17] [main/WARN]: Incorrect key general.defaultWorldType was corrected from null to its default, default. 
+[00:14:17] [Forge Version Check/INFO]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[00:14:18] [Forge Version Check/INFO]: [forge] Found status: BETA Current: 38.0.17 Target: 38.0.17
